@@ -5,37 +5,29 @@ README.md
 # Telecom Churn Prediction
 
 ## Project Overview
-
-This project predicts whether a telecom customer is likely to churn using Machine Learning techniques.
+This project predicts whether telecom customers are likely to churn.
 
 ## Problem Statement
+Customer churn impacts revenue. The goal is to identify high-risk customers and take preventive actions.
 
-Customer churn significantly affects telecom companies. The goal is to identify high-risk customers before they leave.
+## Dataset
+Telecom customer dataset containing demographics, services, and contract information.
 
 ## Technologies Used
-
 - Python
 - Pandas
 - NumPy
-- Scikit-Learn
+- Scikit-learn
 - Matplotlib
 - Seaborn
 
-## Workflow
-
-1. Data Cleaning
-2. Exploratory Data Analysis
-3. Feature Engineering
-4. Model Training
-5. Model Evaluation
-6. Churn Risk Prediction
+## Machine Learning Models
+- Logistic Regression
+- Random Forest
+- Decision Tree
 
 ## Results
+The model successfully identifies customers with high churn probability.
 
-- Accuracy: XX%
-- Precision: XX%
-- Recall: XX%
-
-## Author
-
-Prathinidhi Paul
+## Business Impact
+Allows telecom companies to improve customer retention strategies.
